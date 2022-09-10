@@ -1,5 +1,7 @@
-
-
+#Aubre A. Anderson
+#Vehicle Info
+#This application will take your input and list out the vehicle details
+#sept. 9, 2022
 class Vehicle:
     def __init__(self, input, type):
         self.input = input
